@@ -1,3 +1,3 @@
 # Clock
 
-Simple clock
+Just a simple clock
